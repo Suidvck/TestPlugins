@@ -2,13 +2,12 @@
     {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/TestPlugins",
+        "repositoryUrl": "https://github.com/Suidvck/TestPlugins",
         "fileSize": 7311,
         "status": 1,
-        "language": "en",
+        "language": "th",
         "authors": [
-            "Cloudburst",
-            "Luna712"
+            "Suidvck"
         ],
         "tvTypes": [
             "Movie"
@@ -16,7 +15,7 @@
         "version": 1,
         "internalName": "ExampleProvider",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
+        "url": "https://github.com/Suidvck/TestPlugins/blob/3b7c50b58f8b7160bc85084bb5d0ba00dc695341/ExampleProvider.cs3",
+        "name": "ezmov"
     }
 ]
